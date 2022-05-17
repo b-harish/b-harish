@@ -1,4 +1,4 @@
--  Hi, I’m @harry-b-harish
+- 🙏 Hi, I’m @harry-b-harish
 - 👀 I’m interested in Programming, Machine Learning.
 - 🌱 I’m currently learning Data Structures and Algorithms, Machine Learning.
 - 📫 How to reach me? dev.harish@outlookcom
